@@ -1,4 +1,3 @@
-# Furkan7
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,7 +12,10 @@
 
 
 <body>
-  <h1>FURKAN</h1>
+  <ul>
+    <li>FURKAN</li>
+    <li>EREN</li>
+  </ul>
 
 </body>
 
